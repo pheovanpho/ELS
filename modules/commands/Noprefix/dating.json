@@ -1,0 +1,16 @@
+[
+    {
+        "name_one": "Nguyễn Phấn",
+        "ID_one": "100033361006313",
+        "name_two": "Nguyễn Hải Đăng ꪜ",
+        "ID_two": "100033478361032",
+        "status": true,
+        "data": {
+            "days": "09:25:10 18/11/2022",
+            "countDays": 79,
+            "point": 999999999999,
+            "daily": null,
+            "timestamp": 1668738310406
+        }
+    }
+]

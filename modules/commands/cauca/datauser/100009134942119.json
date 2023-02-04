@@ -1,0 +1,20 @@
+{
+    "name": "Thành Phát Phạm",
+    "ID": "100009134942119",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Cá Thách Đấu",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "10/12/2022, 11:23:16 PM"
+}
